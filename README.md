@@ -28,4 +28,7 @@ chmod +x run.sh
 
 ## Inference
 
+### Checkpoints 
+You can download the checkpoint from this [Google Drive link](https://drive.google.com/drive/folders/1GmvEg-SJff35P5SK0zoWb69m7Bzc1b1V?usp=sharing) (around 40 MB total). Place the folder `__compass` in `ckpts/multiobject` directory.  
+
 To visualize inference results, run `training_scripts/infer_vis.ipynb` in an interactive environment.  
