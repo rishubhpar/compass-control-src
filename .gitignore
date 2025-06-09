@@ -1,0 +1,5 @@
+training_scripts/tmp*
+training_scripts/*.gif
+training_scripts/__pycache__
+compass_dataset/
+ckpts/
